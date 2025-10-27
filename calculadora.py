@@ -1,7 +1,7 @@
-a = 6
-b = 4
-c = 4
-d = 2
+a = int ( input("Digite o número A") )
+b = int ( input("Digite o número B") )
+c = int ( input("Digite o número C") )
+d = int ( input("Digite o número D") )
 
 produto = (a * b) - (c * d)
 
